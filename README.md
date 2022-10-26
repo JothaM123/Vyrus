@@ -42,3 +42,8 @@ while 1:
 █▀█ █▄▄ ██▄ █▀▄ ░█░ ▄
 """)
 ```
+
+UI image:
+![image](https://user-images.githubusercontent.com/83907753/198041312-eab5b4d8-301f-4f85-b617-9b3e93dfc53f.png)
+
+*You will also hear an error sound*
